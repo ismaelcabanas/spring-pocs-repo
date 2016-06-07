@@ -1,0 +1,10 @@
+server:
+  port: 8888
+logging:
+  level:
+    com:
+      santander:
+        serenity:
+          configuration: ERROR
+
+timeout: 8000
